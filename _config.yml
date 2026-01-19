@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Gabriel Jones
+tagline: Mi piace leggere - nulla da aggiungere vostro onore
 url: https://gabrielmatteojones.github.io/jekyll-lib/
 paginate: 1
 baseurl: ""
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Gabriel Jones
+  url: https://18f.it/
+  email: gabriel.jones@18f.it
 
 # Custom vars
 version: 3.0.0
